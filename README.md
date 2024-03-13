@@ -1,4 +1,4 @@
-👋 Hi, I’m @Divyanshu708 A Programmer for FUN! 
+👋 Hi, I’m Divyanshu A Programmer for FUN! 
 
 - Web developer
 - HTML, CSS, Javascript
