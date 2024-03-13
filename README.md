@@ -4,9 +4,9 @@
 - HTML, CSS, Javascript
 - Frontend
 - Git
-
+- 
 - 🌱 Currently learning React
-On my way to becoming a MERN stack Guy!
+- On my way to becoming a MERN stack Guy!
 
 
 
